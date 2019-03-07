@@ -1,2 +1,2 @@
-# About repository
-The book's code of C-Primer-Plus
+# 关于这个仓库
+这个仓库是 C Primer Plus 书上的代码纯手敲版，一把辛酸泪阿！谁敲谁懂！
